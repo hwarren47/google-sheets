@@ -1,1 +1,1 @@
-# google-sheets
+https://username.github.io/heather_schedule.ics
